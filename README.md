@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there this is Rob!👋
+
+You landed on my page. Here's some key info!
+
+I'm a strategist, marketer and tech-forward community builder based in NYC. Let's Rock!
+
+
 
 <!--
 **rkrevolution/rkrevolution** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
