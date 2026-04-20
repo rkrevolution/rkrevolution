@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D5616AQHoVxLHeM6K-Q/profile-displaybackgroundimage-shrink_200_800/profile-displaybackgroundimage-shrink_200_800/0/1708464126491?e=1778112000&v=beta&t=no5v78pOsjcK281rYDVz6HAVtqHKZHi8vsoNxMn80-g" alt="Shaping the future, one connection at a time" width="100%" />
+  <img src="https://github.com/rkrevolution/rkrevolution/blob/main/ghbanner.jpeg" alt="Shaping the future, one connection at a time" width="70%" />
 </p>
 <h2>
   Hi there, I'm Rob!
@@ -22,7 +22,7 @@ NYC-based strategist, writer, and community builder. I champion developer experi
         <b>Chalk Feature Engineering DevRel Case Study</b>
       </a>
       <br />
-      <sub>Build, document, distribute — travel forecasting with ML tooling Chalk, end-to-end</sub>
+      <sub>ML tooling Chalk showcase with Chalk. Build, document, distribute travel forecasting feature engineering/sub>
     </td>
     <td align="center" width="220">
       <a href="https://github.com/rkrevolution/claude-statusline-timer">
@@ -51,7 +51,7 @@ NYC-based strategist, writer, and community builder. I champion developer experi
 <table>
   <tr>
     <td width="120" align="center">
-      <a href="https://robkleiman.net/megashift-about">
+      <a href="https://megashift.co">
         <img src="https://api.iconify.design/lucide/radio.svg?color=%23E85D75&width=80" width="80" />
       </a>
     </td>
@@ -60,7 +60,7 @@ NYC-based strategist, writer, and community builder. I champion developer experi
       <br />
       <sub>Cool guests. Cool topics. New episodes drop regularly.</sub>
       <br /><br />
-      <a href="https://robkleiman.net/megashift-about"><b>→ Watch / Subscribe</b></a>
+      <a href="https://megashift.co"><b>→ Watch / Subscribe</b></a>
     </td>
   </tr>
 </table>
@@ -80,7 +80,7 @@ NYC-based strategist, writer, and community builder. I champion developer experi
     </td>
     <td align="center" width="170">
       <a href="https://github.com/rkrevolution/swipey">
-        <img src="https://api.iconify.design/lucide/heart.svg?color=%23E85D75&width=54" width="54" />
+        <img src="https://api.iconify.design/lucide/sheet.svg?color=%23E85D75&width=54" width="54" />
         <br />
         <b>Swipey</b>
       </a>
@@ -91,10 +91,10 @@ NYC-based strategist, writer, and community builder. I champion developer experi
       <a href="https://github.com/rkrevolution/ny-hackathon-twelvelabs">
         <img src="https://api.iconify.design/lucide/clapperboard.svg?color=%230066FF&width=54" width="54" />
         <br />
-        <b>Ads in Video</b>
+        <b>Smart Video Ads API</b>
       </a>
       <br />
-      <sub>Smarter ad placement with TwelveLabs</sub>
+      <sub>Smarter ad placement with TwelveLabs API</sub>
     </td>
     <td align="center" width="170">
       <a href="https://github.com/rkrevolution/quickriver">
